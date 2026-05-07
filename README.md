@@ -7,6 +7,7 @@ Heat set inserts	to screw in the display	1	$3.91	Link	https://www.amazon.com/gp/
 Tactile switches	to control the display	1	$3.29	https://www.amazon.com/gp/product/B0G1BL3GD3/ref=ox_sc_act_title_2?smid=A3SB6DBFL5LVMG&psc=1
 1.8" TFT display(ST7735)	it is a display to show information to the user	1	$3.40	https://evalm.com/products/32523688?variant=46327280173285	Valm	
 Lolin c3 mini esp32	to power and run the display	1	$0.99	https://www.aliexpress.us/item/3256804553736450.html?gatewayAdapt=glo2usa4itemAdapt	Aliexpress	
+3.5mm TRS Panel‑Mount Jack	for the headphone jack	1	$1.50	https://www.performanceaudio.com/products/performance-audio-3-5mm-stereo-panel-mount-jack-gold?variant=42498797437106	Performance audio
 
 
 
